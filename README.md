@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hasan
+## Hi there, I'm Hasan
 #### I love coding.
 ![I love coding.](https://media.licdn.com/dms/image/D5616AQH7ZqcOvwLyvg/profile-displaybackgroundimage-shrink_350_1400/0/1688271815454?e=1714608000&v=beta&t=izZOeJLSonVLXkoc1pXv7ism6rI4XOJFZjMh1t6ajC4)
 
@@ -14,11 +14,7 @@ Skills: Next.js /React.js/Javascript /Python /HTML /CSS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanisokay)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanisokay)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasanisokay)  
 
