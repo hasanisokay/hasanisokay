@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Md Abu Hasan
+# Hi there 👋, I'm Hasan
 #### I love coding.
 ![I love coding.](https://media.licdn.com/dms/image/D5616AQH7ZqcOvwLyvg/profile-displaybackgroundimage-shrink_350_1400/0/1688271815454?e=1714608000&v=beta&t=izZOeJLSonVLXkoc1pXv7ism6rI4XOJFZjMh1t6ajC4)
 
@@ -18,7 +18,7 @@ Skills: Next.js /React.js/Javascript /Python /HTML /CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanisokay)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/hasanisokay)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasanisokay)  
 
