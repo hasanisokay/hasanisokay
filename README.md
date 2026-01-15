@@ -4,7 +4,7 @@ Frontend-focused developer with a strong interest in building clean, scalable, a
 
 ### Tech Stack
 - **Frontend:** Next.js, React, JavaScript, HTML, CSS  
-- **Backend / Other:** Python  
+- **Backend / Other:** Node/Express.js  
 
 ### Get in Touch
 - 📧 Email: **hasanisokay@gmail.com**
