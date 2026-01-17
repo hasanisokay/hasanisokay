@@ -8,7 +8,7 @@ Frontend-focused developer passionate about building clean, scalable, and user-f
 
 ### Get in Touch
 - 📧 Email: **hasanisokay@gmail.com**
-- 🌐 Portfolio: https://portfolio-hasan-42c25.web.app
+- 🌐 Portfolio: coming...
 
 ### Find Me Online
 <a href="https://github.com/hasanisokay">
